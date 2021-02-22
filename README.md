@@ -39,3 +39,21 @@ O usuário informa o ano do nascimento e o programa mostra no ano atual, qual id
 
 ### Ola Mundo FX (mavenproject2)
 Demonstra na tela através do Java FX a frase "Olá Mundo!"
+
+### LeitorDePensamento
+O programa gera um número aleatório de 1 à 5 e o usuário tenta advinha qual foi esse número
+
+### SuperCalculadoraSwing
+Nesse exercício o usuário seleciona um número e o programa faz alguns cálculos como, resto da divisão por 2, raiz quadrada e cúbica, elevado ao cubo e o valor absoluto
+
+### ProgramaMedia
+Faz uma média entre dois números e retorna uma mesagem conforme o resultado
+
+### VerificadorIdade
+O usuário informa o ano de nascimento, em seguida o programa informa a idade e se ele é obrigado a votar ou se é opcional
+
+### OperadorTernario
+Exemplo dad utilização entre dois números, considerando se um é maior que outro
+
+### EquacaoSegundoGrau
+Mostra o cálculo da equação de segundo grau a partir dos números informados pelo usuário
