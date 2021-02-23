@@ -57,3 +57,9 @@ Exemplo dad utilização entre dois números, considerando se um é maior que ou
 
 ### EquacaoSegundoGrau
 Mostra o cálculo da equação de segundo grau a partir dos números informados pelo usuário
+
+### VotacaoSwing
+Este exercício traz as opções de obrigatoriedade ou não de votação por faixa etária, após ser colocado o ano de nascimento
+
+### ProgramaPernas
+É perguntado ao usuário um número de pernas e o programa retorna se ele quadrúpide, bípede, etc.
