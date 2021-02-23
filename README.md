@@ -63,3 +63,6 @@ Este exercício traz as opções de obrigatoriedade ou não de votação por fai
 
 ### ProgramaPernas
 É perguntado ao usuário um número de pernas e o programa retorna se ele quadrúpide, bípede, etc.
+
+### ProjetoTriangulo
+O usuário seleciona três números e o programa verifica se forma um triângulo e se é equilátero, escaleno ou isósceles
