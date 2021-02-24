@@ -66,3 +66,9 @@ Este exercício traz as opções de obrigatoriedade ou não de votação por fai
 
 ### ProjetoTriangulo
 O usuário seleciona três números e o programa verifica se forma um triângulo e se é equilátero, escaleno ou isósceles
+
+### Contador01
+Este exercício mostra de 1 até 10 utilizando estrutura de repetição e pulando número ou interrompendo a sequência
+
+### ProjetoFatorial
+Ao ser selecionado um número o programa calcula o resultado do seu fatorial
