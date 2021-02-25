@@ -72,3 +72,12 @@ Este exercício mostra de 1 até 10 utilizando estrutura de repetição e puland
 
 ### ProjetoFatorial
 Ao ser selecionado um número o programa calcula o resultado do seu fatorial
+
+### Repeticao
+Exercício para demonstrar uma repetição simples de uma palavra
+
+### Numeros
+Cada vez que o usuário informa um número ele vai somando até que não seja mais inserido outro
+
+### ExercicioRepita
+O usuário vai informando números e no final o programa, mostra a soma deles, quantos são pares ou ímpares, quantos são maiores que 100 e a média dos valores
