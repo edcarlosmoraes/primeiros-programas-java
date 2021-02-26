@@ -85,5 +85,23 @@ O usuário vai informando números e no final o programa, mostra a soma deles, q
 ### Contador Selecionável (Exercício13)
 É possível selecionar o número inicial e final da contagem, além de selecionar o número que irá sendo pulado se optar por não seguir a ordem sequêncial
 
-## RepeticaoFor
+### RepeticaoFor
 Mostra os números de uma contagem dentro de outra repetição
+
+### Quantidade Posições (Vetor01)
+Nesse exemplo é possível visualizar a quantidade de posições e qual o número que está em cada vetor
+
+### Dias e mês (Vetor02)
+Através desse exercício podemos verificar quantos dias tem em cada mês
+
+### Ordenar Números (Vetor03)
+Após inserir os números aleatóriamente no programa, é colocado em ordem do menor para o maior
+
+### Mostra o Número (Vetor04)
+O programa mostra em qual posição determinado número está
+
+### Inserir Número (Vetor05)
+Insere em todas as posições um número desejado
+
+### Selecionador de Vetor (ExercicioVetor)
+Através da tela Swing é possível inserir um número em uma posição específica, ou removê-lo e também é possível ordernar os números selecionados
