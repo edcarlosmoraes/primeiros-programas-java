@@ -81,3 +81,9 @@ Cada vez que o usuário informa um número ele vai somando até que não seja ma
 
 ### ExercicioRepita
 O usuário vai informando números e no final o programa, mostra a soma deles, quantos são pares ou ímpares, quantos são maiores que 100 e a média dos valores
+
+### Contador Selecionável (Exercício13)
+É possível selecionar o número inicial e final da contagem, além de selecionar o número que irá sendo pulado se optar por não seguir a ordem sequêncial
+
+## RepeticaoFor
+Mostra os números de uma contagem dentro de outra repetição
