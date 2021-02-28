@@ -105,3 +105,15 @@ Insere em todas as posições um número desejado
 
 ### Selecionador de Vetor (ExercicioVetor)
 Através da tela Swing é possível inserir um número em uma posição específica, ou removê-lo e também é possível ordernar os números selecionados
+
+### Soma (TesteFuncao01)
+Realiza a soma entre dois número utilizando função
+
+### Contagem (TesteFuncao02)
+Faz uma contagem até cinco utilizando uma classe separada
+
+### Fatorial (Funcao01)
+Este exercício realiza o fatorial de cinco utilizando função
+
+### Fatorial Swing (Funcao02)
+Nesse exercício é possível que o usuário selecione um número e o programa calcula o fatorial utilizando a mesma classe do exercício anterior
